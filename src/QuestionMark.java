@@ -59,18 +59,16 @@ public class QuestionMark {
 	}
 
 	public static int leftToRight(int a, int b)	{
-//		int rValue;
-//		if ( a != 0 ) {
-//			if ( b != 0 )
-//				rValue = a/b;
-//			else
-//				rValue = -1;
-//		} else {
-//			rValue = 0;
-//		}
-//		return rValue;
-//		return  a != 0 ? b != 0 ? a/b : -1 : 0;
-		return  a == 0 ? b == 0 ? 5 : 10 : 0;
+		int rValue;
+		if ( a != 0 ) {
+			if ( b != 0 )
+				rValue = a/b;
+			else
+				rValue = -1;
+		} else {
+			rValue = 0;
+		}
+		return rValue;
 	}
 
 	public static void main( String[] args ) {

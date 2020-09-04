@@ -47,11 +47,23 @@ public class PatternQuestions {
 		System.out.println( "Pattern " + patternDefinition + " matched text: " +
 				m.find() );
 
-		patternDefinition = "EVIL".toLowerCase();
+		patternDefinition = "all$";
 		Pattern stringPattern2 = Pattern.compile( patternDefinition );
 		Matcher m2 = stringPattern2.matcher( text );
 		System.out.println( "Pattern " + patternDefinition + " matched text: " +
 				m2.find() );
+
+		patternDefinition = "all.$";
+		Pattern stringPattern3 = Pattern.compile( patternDefinition );
+		Matcher m3 = stringPattern3.matcher( text );
+		System.out.println( "Pattern " + patternDefinition + " matched text: " +
+				m3.find() );
+
+		patternDefinition = "^Evil";
+		Pattern stringPattern4 = Pattern.compile( patternDefinition );
+		Matcher m4 = stringPattern4.matcher( text );
+		System.out.println( "Pattern " + patternDefinition + " matched text: " +
+				m4.find() );
 
 		// Examples using matches()
 

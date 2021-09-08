@@ -33,7 +33,7 @@ sessions.
 
 ### etc
 
-- PatternQuestions.kava
+- PatternQuestions.java
 - ScannerExample.java
 - words.txt
 

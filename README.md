@@ -11,6 +11,7 @@ sessions.
 
 ### HW2.2: String Literals and our Memory model
 
+- StringThing.java
 - hw23d.tiff
 - hw23e.tiff
 
@@ -30,9 +31,14 @@ sessions.
 
 - https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-243.html
 
+### etc
+
+- PatternQuestions.kava
+- ScannerExample.java
+- words.txt
+
 
 ---
-
 
 Please let me know if you have any questions. You can
 always use MyCourses discussion forum (good idea) or

@@ -1,43 +1,42 @@
-# CSCI-605 Recitation - week 3
+# 2211 CSCI-605 Recitation - week 3
 
 Here you will find a couple of code snippets as well
 as some notes used in RIT course CSCI605's recitation
 sessions.
 
 ---
-### HW2.1
+### HW2.1: Recursive Number Properties
 
-- Coins.java
+- Number.java
 
-### HW2.2
+### HW2.2: String Literals and our Memory model
 
-- Palindrome.java
+- hw23d.tiff
+- hw23e.tiff
 
-### HW2.3
+### HW2.3: Multi-way matrix search
 
-- StringThing.java
-- hw23a.tiff
-- hw23b.tiff
+- WordSearch.java
 
-### HW3.1
+### HW3.1: Playing with Strings
 
-- PatternQuestions.java
+- https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-243.html
 
-### HW3.2
+### HW3.2: A 2-player game with File and Scanner classes
 
-- ScannerExample.java
-- words.txt
+- https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-243.html
 
-### HW3.3
+### HW3.3: The ternary operator
 
-- QuestionMark.java
+- https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-243.html
 
 
 ---
 
+
 Please let me know if you have any questions. You can
 always use MyCourses discussion forum (good idea) or
-email me or Professor Bischof. I will reply the questions
+email me, Professor Bischof or Professor Pakeeza. I will reply the questions
 either to the discussion forum or will email everyone so
 every student can benefit from the answers provided.
 
